@@ -2,4 +2,4 @@ Este repositorio contiene el código fuente de una página web dedicada a los fa
 
  
 
-![preview img](/preview.png)
+
